@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "PS11752778",
+      "name": "Ice Maker Assembly",
+      "category": "Refrigerator",
+      "brand": "Whirlpool",
+      "description": "Complete ice maker assembly kit for Whirlpool refrigerators. Includes mounting hardware and installation instructions.",
+      "price": 89.99,
+      "compatible_models": ["WDT780SAEM1", "WRS325SDHZ", "WRT318FZDW"],
+      "installation_guide": "1. Turn off power to refrigerator\n2. Remove old ice maker assembly\n3. Disconnect water line carefully\n4. Install new assembly using provided brackets\n5. Reconnect water line with new fittings\n6. Test for leaks\n7. Restore power and test operation",
+      "image_url": "https://example.com/icemaker.jpg"
+    },
+    {
+      "id": "PS11747979",
+      "name": "Dishwasher Wash Pump Motor",
+      "category": "Dishwasher",
+      "brand": "Whirlpool",
+      "description": "Replacement wash pump motor for Whirlpool dishwashers. Includes gasket and installation hardware.",
+      "price": 125.50,
+      "compatible_models": ["WDT780SAEM1", "WDTA50SAHZ", "WDF520PADM"],
+      "installation_guide": "1. Disconnect power and water supply\n2. Remove lower dish rack and spray arm\n3. Remove sump cover\n4. Disconnect electrical connections\n5. Remove old pump motor\n6. Install new motor with gasket\n7. Reconnect all connections\n8. Test operation",
+      "image_url": "https://example.com/washpump.jpg"
+    },
+    {
+      "id": "PS11750210",
+      "name": "Refrigerator Door Seal",
+      "category": "Refrigerator",
+      "brand": "Frigidaire",
+      "description": "Magnetic door seal gasket for Frigidaire refrigerators. Ensures proper temperature control.",
+      "price": 45.99,
+      "compatible_models": ["FFTR1821TS", "FFSS2615TS", "FFHT1832TS"],
+      "installation_guide": "1. Remove old seal by pulling away from door\n2. Clean door frame thoroughly\n3. Starting at top corner, press new seal into channel\n4. Work around entire door perimeter\n5. Check for proper magnetic seal\n6. Adjust if necessary",
+      "image_url": "https://example.com/doorseal.jpg"
+    }
+  ]
+}
